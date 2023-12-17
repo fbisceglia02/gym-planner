@@ -1,0 +1,22 @@
+
+.form-input {
+    margin-bottom: 10px;
+}
+
+.form-input input {
+    padding: 8px;
+    margin-right: 5px;
+}
+
+.add-set-btn, .submit-btn {
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.add-set-btn:hover, .submit-btn:hover {
+    background-color: #0056b3;
+}
